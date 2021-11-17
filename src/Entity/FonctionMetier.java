@@ -11,4 +11,9 @@ package Entity;
  */
 public class FonctionMetier {
     
+    public String getAllIndivDavid(int code, String nom)
+    {
+        return null;
+    }
+    
 }
