@@ -11,4 +11,6 @@ package Entity;
  */
 public class FonctionMetier {
     
+    int test=0;
+    
 }
